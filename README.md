@@ -2,6 +2,7 @@
 
 - Mindmingle is a Web App made with HTML, CSS, JS.
 - The questions are based on generic HTML, CSS, JS knowledge. 
+- View the project live [Here](https://mindmingle0.netlify.app)
 
 ## Features
 
